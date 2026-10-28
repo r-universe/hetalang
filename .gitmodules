@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DynMSR"]
+	path = DynMSR
+	url = https://github.com/hetalang/dynmsr
 [submodule "NoSleepR"]
 	path = NoSleepR
 	url = https://github.com/hetalang/nosleepr
